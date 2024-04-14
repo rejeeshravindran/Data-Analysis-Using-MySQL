@@ -1,3 +1,5 @@
+--Analysing the Business data from a chocolate company and finding valuable insights 
+
 
 -- selecting all the items from the table 
 select * from sales;
