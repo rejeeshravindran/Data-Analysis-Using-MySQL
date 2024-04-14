@@ -1,3 +1,5 @@
+
+-- selecting all the items from the table 
 select * from sales;
 select SaleDate, Amount, Customers, Boxes from sales;
 
